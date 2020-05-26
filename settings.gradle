@@ -1,0 +1,2 @@
+rootProject.name='MVVM_Room_SQLite'
+include ':app'
